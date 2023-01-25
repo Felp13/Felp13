@@ -1,4 +1,4 @@
-## Oiii eu sou o Felipe Severo, Desenvolvedor java web Jr!
+## Olá, meu nome é Felipe Severo e sou Desenvolvedor Java Júnior!
 <div align="center">
   <a href="https://github.com/Felp13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felp13-zz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
